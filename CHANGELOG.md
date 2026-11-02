@@ -1,3 +1,6 @@
+## 0.2.20 (02-11-2026)
+- Added support for World of Warcraft: Forever.
+
 ## 0.2.19 (22-06-2026)
 - Fixed a regression causing modern map exports to fail.
 - Fixed an issue that prevents certain WMO minimaps from exporting fully.
