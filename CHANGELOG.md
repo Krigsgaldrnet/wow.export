@@ -1,3 +1,6 @@
+## 0.2.21 (06-11-2026)
+- Fixed issue with CDN fallback for local builds for wowf and wow_anniversary.
+
 ## 0.2.20 (02-11-2026)
 - Added support for World of Warcraft: Forever.
 
